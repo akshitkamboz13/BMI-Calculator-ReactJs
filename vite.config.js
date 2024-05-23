@@ -5,5 +5,4 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   plugins: [react()],
   base: '/BMI-Calculator/',
-  base: '/https://akshitkamboz13.github.io/BMI-Calculator-ReactJs/'
 })
